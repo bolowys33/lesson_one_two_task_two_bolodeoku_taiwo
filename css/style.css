@@ -50,3 +50,7 @@ table {
 
 
 /* Write your css below here */
+footer{
+	position: fixed;
+	bottom: 0;
+}
