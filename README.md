@@ -11,4 +11,6 @@
 - Mr Ekene
 - Mr Johnson Promise (JP)
 - Mr Patrick
+## Live Site
+Click [here](https://bolowys33.github.io/lesson_one_two_task_two_bolodeoku_taiwo/) to view live site
 ## This is a work of LM TechHub.
